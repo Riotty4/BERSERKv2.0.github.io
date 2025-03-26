@@ -7387,7 +7387,7 @@ html:only-child > head + body div.app_a3002d > div.app__160d8 > div.layers__960e
 	padding: 0 !important;
 	margin: 0 !important;
 	cursor: pointer !important;
-	visibility: unvisible !important;
+	visibility: visible !important;
 	position: absolute !important;
 	top: unset !important;
 	left: 117px !important;
